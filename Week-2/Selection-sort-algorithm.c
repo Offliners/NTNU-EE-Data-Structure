@@ -32,7 +32,7 @@ void main(void)
 
 void Sort(int list[],int n)
 {
-	int i,j,min,temp;
+	int i,j,min;
 
 	for(i = 0;i < n;i++)
 	{
