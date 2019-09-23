@@ -8,6 +8,7 @@ NTNU EE Data Structure Course (2019 Fall)
 
 * [Allocation and deallocation of memory](Week-2/Allocation-and-deallocation-of-memory.c)
 * [Selection sort algorithm](Week-2/Selection-sort-algorithm.c)
+* [Selection sort algorithm using macro definition](Week-2/Selection-sort-algorithm-using-macro-definition.c)
 
 #### Week-3 Array and Implementation in C
 
