@@ -1,2 +1,7 @@
-# NTNU-EE-Data-Structure
-NTNU EE Data Structure(2019 Fall)
+# NTNU EE Data Structure
+
+
+## IDE
+IDE : Dev-Cpp
+
+Download : http://orwelldevcpp.blogspot.com/
