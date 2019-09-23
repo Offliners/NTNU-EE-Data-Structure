@@ -7,6 +7,7 @@ NTNU EE Data Structure Course (2019 Fall)
 #### Week-2 C Programming Language Review
 
 * [Allocation and deallocation of memory](Week-2/Allocation-and-deallocation-of-memory.c)
+* [Selection sort algorithm](Week-2/Selection-sort-algorithm.c)
 
 #### Week-3 Array and Implementation in C
 
