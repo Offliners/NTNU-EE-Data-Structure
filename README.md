@@ -25,6 +25,7 @@ NTNU EE Data Structure Course (2019 Fall)
 
 ## Schedule
 #### Week-1
+* Introduction
 #### Week-2
 * [Allocation and deallocation of memory](Week-2/Allocation-and-deallocation-of-memory.c)
 * [Selection sort algorithm](Week-2/Selection-sort-algorithm.c)
@@ -36,7 +37,7 @@ NTNU EE Data Structure Course (2019 Fall)
 * [Factorial recursive algorithm](Week-3/Factorial-recursive-algorithm.c)
 * [Recursive permutation generator](Week-3/Recursive-permutation-generator.c)
 #### Week-4
-
+* Typhoon day-off
 #### Week-5
 
 #### Week-6
