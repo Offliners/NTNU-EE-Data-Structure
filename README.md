@@ -11,6 +11,7 @@ NTNU EE Data Structure Course (2019 Fall)
 #### Week-3 Array and Implementation in C
 * [Binary search algorithm](Week-3/Binary-search-algorithm.c)
 * [Recursive implementation binary search algorithm](Week-3/Recursive-implementation-binary-search-algorithm.c)
+* [Recursive permutation generator](Week-3/Recursive-permutation-generator.c)
 #### Week-4 Structure and Implementation in C
 
 #### Week-5 Stack and Implementation in C
