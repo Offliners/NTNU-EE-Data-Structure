@@ -3,6 +3,7 @@ NTNU EE Data Structure Course (2019 Fall)
 
 ## Outline
 |Week|Title|
+|-|-|
 |Week-1|Introduction|
 |Week-2|C Programming Language Review|
 #### Week-3 Array and Implementation in C
