@@ -5,13 +5,12 @@ NTNU EE Data Structure Course (2019 Fall)
 #### Week-1 Introduction
 
 #### Week-2 C Programming Language Review
-
 * [Allocation and deallocation of memory](Week-2/Allocation-and-deallocation-of-memory.c)
 * [Selection sort algorithm](Week-2/Selection-sort-algorithm.c)
 * [Selection sort algorithm using macro definition](Week-2/Selection-sort-algorithm-using-macro-definition.c)
-
 #### Week-3 Array and Implementation in C
-
+* [Binary search algorithm](Week-3/Binary-search-algorithm.c)
+* [Recursive implementation binary search algorithm](Week-3/Recursive-implementation-binary-search-algorithm.c)
 #### Week-4 Structure and Implementation in C
 
 #### Week-5 Stack and Implementation in C
