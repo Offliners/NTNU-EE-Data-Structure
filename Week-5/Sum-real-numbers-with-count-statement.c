@@ -27,7 +27,7 @@ void main(void)
 
 	count = 0;
 	float_sum =R_Float_Sum(F,n,&count);
-	printf("[Iterative] The number of step = %d\n",count);
+	printf("[Recursive] The number of step = %d\n",count);
 	for(i = 0;i < n;i++)
 	{
 		if(i < n - 1)
