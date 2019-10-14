@@ -46,6 +46,7 @@ NTNU EE Data Structure Course (2019 Fall)
 * [Matrix transposition](Week-5/Matrix-transposition.c)
 #### Week-6
 * [Magic square](Week-6/Magic-square.c)
+* [Selection sort](Week-6/SelectionSort.h)
 * [First timing program for selection sort](Week-6/First-timing-program-for-selection-sort.c)
 * [More accurate timing program for selection sort](Week-6/More-accurate-timing-program-for-selection-sort.c)
 #### Week-7
