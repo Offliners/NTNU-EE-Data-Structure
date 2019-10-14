@@ -45,7 +45,7 @@ NTNU EE Data Structure Course (2019 Fall)
 * [Matrix multiplication](Week-5/Matrix-multiplication.c)
 * [Matrix transposition](Week-5/Matrix-transposition.c)
 #### Week-6
-
+* [Magic square](Week-6/Magic-square.c)
 #### Week-7
 
 #### Week-8
