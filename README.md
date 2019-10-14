@@ -41,6 +41,7 @@ NTNU EE Data Structure Course (2019 Fall)
 #### Week-5
 * [Sum real numbers with count statement](Week-5/Sum-real-numbers-with-count-statement.c)
 * [Sum real numbers with count statement and global variable](Week-5/Sum-real-numbers-with-count-statement-and-global-variable.c)
+* [Matrix addition](Week-5/Matrix-addition.c)
 #### Week-6
 
 #### Week-7
