@@ -69,6 +69,9 @@ NTNU EE Data Structure Course (2019 Fall)
 #### Week-17
 
 #### Week-18
+
+## Textbook exercies
+
 ## IDE
 IDE : Dev-Cpp
 
