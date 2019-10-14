@@ -49,8 +49,9 @@ NTNU EE Data Structure Course (2019 Fall)
 * [Selection sort](Week-6/SelectionSort.h)
 * [First timing program for selection sort](Week-6/First-timing-program-for-selection-sort.c)
 * [More accurate timing program for selection sort](Week-6/More-accurate-timing-program-for-selection-sort.c)
+* [One-Dimensional Array Addressing](Week-6/One-Dimensional-Array-Addressing.c)
 #### Week-7
-
+* Quiz-1
 #### Week-8
 
 #### Week-9
