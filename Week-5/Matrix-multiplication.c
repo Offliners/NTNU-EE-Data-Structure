@@ -38,7 +38,6 @@ void main(void)
 void mult(int a[][MAXSIZE],int b[][MAXSIZE],int c[][MAXSIZE],int rows,int cols)
 {
 	int i,j,k;
-	int count = 0;
 
 	for(i = 0; i < rows;i++)
 	{
