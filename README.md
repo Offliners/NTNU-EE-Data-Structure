@@ -55,6 +55,7 @@ NTNU EE Data Structure Course (2019 Fall)
 * Quiz-1
 #### Week-8
 * [Linked list](Week-8/Linked-list.c)
+* [Polynomial abstract data type](Week-8/Polynomial-abstract-data-type.c)
 #### Week-9
 
 #### Week-10
