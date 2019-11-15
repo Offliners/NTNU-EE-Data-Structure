@@ -60,7 +60,7 @@ NTNU EE Data Structure Course (2019 Fall)
 #### Week-9
 
 #### Week-10
-
+* Quiz-2
 #### Week-11
 
 #### Week-12
