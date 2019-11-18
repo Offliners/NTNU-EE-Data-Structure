@@ -63,7 +63,9 @@ NTNU EE Data Structure Course (2019 Fall)
 #### Week-10
 * Quiz-2
 #### Week-11
-
+* [Stack](Week-11/Stack.c)
+* [Queue](Week-11/Queue.c)
+* [Circular queue](Week-11/Circular-queue.c)
 #### Week-12
 
 #### Week-13
