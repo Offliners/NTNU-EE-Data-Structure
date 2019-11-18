@@ -1,22 +1,22 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include<stdio.h>
+#include<stdlib.h>
 
-#define MAX_TERMS 101
+#define MAXTERM 101
 
-typedef struct 
+typedef struct
 {
-    int col;
+	int col;
 	int row;
 	int value;
-} term;
+}term;
 
-void transpose(term a[], term b[]);
+void transpose(term a[],term b[]);
 
 void main()
 {
-	term a[MAX_TERMS], b[MAX_TERMS];
+	term a[MAXTERM],b[MAXTERM];
 	int i;
-	
+
 	a[0].row = 6;
 	a[0].col = 6;
 	a[0].value = 8;
@@ -45,41 +45,39 @@ void main()
 	a[8].col = 2;
 	a[8].value = 28;
 	printf("Output a:\n");
-	for (i = 0; i <= 8; i++)
+	for(i = 0;i <= 8;i++)
 	{
-		printf("(%d, %d, %d)", a[i].row, a[i].col, a[i].value);
+		printf("(%d, %d, %d)",a[i].row,a[i].col,a[i].value);
 		printf("\n");
 	}
-	
-	transpose(a, b);
-	
+	transpose(a,b);
 	printf("Output b:\n");
-	for (i = 0; i <= 8; i++)
+	for(i = 0;i <= 8;i++)
 	{
-		printf("(%d, %d, %d)", b[i].row, b[i].col, b[i].value);
+		printf("(%d, %d, %d)",b[i].row,b[i].col,b[i].value);
 		printf("\n");
 	}
 }
 
-void transpose(term a[], term b[])
+void transpose(term a[],term b[])
 {
-	int n, i, j, currentb;
-    
-	n = a[0].value;             
-    b[0].row = a[0].col;   
+	int n,i,j,currentb;
+
+	n = a[0].value;
+	b[0].row = a[0].col;    
 	b[0].col = a[0].row;    
-    b[0].value = n;         
-    if(n > 0) 
-	{  
-    	currentb = 1;
-        for(i = 0; i < a[0].col; i++)
+    	b[0].value = n;         
+    	if(n > 0) 
+	{   
+    		currentb = 1;
+       		for(i = 0; i < a[0].col; i++)
         	for(j = 1; j <= n; j++)
-            	if (a[j].col == i) 
-				{
-                	b[currentb].row = a[j].col;
-                    b[currentb].col = a[j].row;
-                    b[currentb].value = a[j].value;
-                    currentb++;
-                } 
-    }
+            		if (a[j].col == i) 
+			{
+                		b[currentb].row = a[j].col;
+                    		b[currentb].col = a[j].row;
+                    		b[currentb].value = a[j].value;
+                    		currentb++;
+                	} 
+   	 }
 }
