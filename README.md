@@ -73,6 +73,7 @@ NTNU EE Data Structure Course (2019 Fall)
 * [Linked list version 2](Week-13/Linked-list-v2.c)
 * [Linked stack](Week-13/Linked-stack.c)
 * [Linked queue](Week-13/Linked-queue.c)
+* [Double linked list](Week-13/Double-linked-list.c)
 #### Week-14
 
 #### Week-15
