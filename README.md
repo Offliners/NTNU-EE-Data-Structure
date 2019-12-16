@@ -69,7 +69,7 @@ NTNU EE Data Structure Course (2019 Fall)
 * [Circular queue](Week-12/Circular-queue.c)
 * [Postfix evaluating](Week-12/Postfi-evaluating.c)
 #### Week-13
-
+* [Two-node linked list](Week-13/Two-node-linked-list.c)
 #### Week-14
 
 #### Week-15
