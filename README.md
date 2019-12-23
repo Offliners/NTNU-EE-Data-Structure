@@ -75,15 +75,15 @@ NTNU EE Data Structure Course (2019 Fall)
 * [Linked queue](Week-13/Linked-queue.c)
 * [Double linked list](Week-13/Double-linked-list.c)
 #### Week-14
-
+* [Binary Search Tree]
 #### Week-15
-
+* [Heap]
 #### Week-16
 
 #### Week-17
 
 #### Week-18
-
+* FinalExam
 ## Textbook exercies
 #### Chapter 1
 ## IDE
