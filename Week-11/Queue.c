@@ -49,7 +49,7 @@ void main()
 		printf("\nEnter the data item No.%d : ",i);
 		scanf("%d",&item.key);
 		add(queue,&rear,item);
-		printf("The data item %d has been daaed.\n",item.key);
+		printf("The data item %d has been added.\n",item.key);
 	}
 	printf("The current data items in the queue include :\n");
 	output_queue(queue,front,rear);
