@@ -30,7 +30,7 @@ void main()
 		printf("\nEnter the data item No.%d : ",i);
 		scanf("%d",&item.key);
 		add(queue,&rear,item);
-		printf("The data item %d has been daaed.\n",item.key);
+		printf("The data item %d has been added.\n",item.key);
 	}
 	printf("\nEnter the number of data items to be deleted from the queue : ");
 	scanf("%d",&num);
